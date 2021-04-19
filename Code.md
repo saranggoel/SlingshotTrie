@@ -4,3 +4,5 @@ The code for the trie and cloud is included in cloud.py. A trie was created that
 
 The code to access the trie (hosted on the cloud) is included in request.py. A args system was created for easy user interaction with the trie. It accepts various parameter for the various different functions of the trie. In order to retrieve results, the code make a request to the trie hosted on the cloud. Finally, it prints all results.
 
+Any more questions? Email: saranggoel06@gmail.com
+
