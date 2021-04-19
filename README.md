@@ -45,16 +45,21 @@ Note: To view how the request.py code works, open it using an app that supports 
 
 ## Sample requests and responses:
 Add:
+
 ![image](https://user-images.githubusercontent.com/64043281/115184428-72bc7980-a0a3-11eb-9164-817857d0dd99.png)
 
 Delete:
+
 ![image](https://user-images.githubusercontent.com/64043281/115184507-9aabdd00-a0a3-11eb-8913-6108a852c44e.png)
 
 Autocomplete:
+
 ![image](https://user-images.githubusercontent.com/64043281/115184581-b6af7e80-a0a3-11eb-917d-667a7e969f76.png)
 
 Search:
+
 ![image](https://user-images.githubusercontent.com/64043281/115184632-d8a90100-a0a3-11eb-9cbf-66a8ec224bf7.png)
 
 Display:
+
 ![image](https://user-images.githubusercontent.com/64043281/115184954-83b9ba80-a0a4-11eb-9992-8c4a56e07e3c.png)
