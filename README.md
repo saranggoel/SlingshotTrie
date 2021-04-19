@@ -24,3 +24,7 @@ clients. If client A’s request is received before client B’s request, client
 be processed first before B’s request is processed. Think about if/what data structure
 can help with this.
 5. The operations must be as algorithmically efficient as you can think of.
+
+## How to run:
+
+1. Dow
