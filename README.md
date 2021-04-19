@@ -69,8 +69,8 @@ Note: To view how the request.py code works, open it using an app that supports 
 ![image](https://user-images.githubusercontent.com/64043281/115184954-83b9ba80-a0a4-11eb-9992-8c4a56e07e3c.png)
 
 ## Citations:
-https://www.youtube.com/watch?v=zIjfhVPRZCg  (Did not use code, just used to gain general knowledge of what a trie is)
-https://www.youtube.com/watch?v=6PX6wqDQE20 (Again, did not use code, just used to gain general knowledge of what a trie is)
-https://realpython.com/python-requests/#the-get-request (Learned about the requests library)
-https://geekflare.com/python-hosting-platform/ (Learned about the **FREE** PythonAnywhere)
-https://www.youtube.com/watch?v=5jbdkOlf4cY&t=356s (Using Flask on PythonAnywhere)
+- https://www.youtube.com/watch?v=zIjfhVPRZCg  (Did not use code, just used to gain general knowledge of what a trie is)
+- https://www.youtube.com/watch?v=6PX6wqDQE20 (Again, did not use code, just used to gain general knowledge of what a trie is)
+- https://realpython.com/python-requests/#the-get-request (Learned about the requests library)
+- https://geekflare.com/python-hosting-platform/ (Learned about the **FREE** PythonAnywhere)
+- https://www.youtube.com/watch?v=5jbdkOlf4cY&t=356s (Using Flask on PythonAnywhere)
