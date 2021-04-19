@@ -44,22 +44,33 @@ Note: Multiple args can be added at the same time. If done so, the order in whic
 Note: To view how the request.py code works, open it using an app that supports the '.py' format. To view how to cloud/trie works, open the cloud.py file using an app that supports the '.py' format.
 
 ## Sample requests and responses:
-Add:
+**Add:**
 
 ![image](https://user-images.githubusercontent.com/64043281/115184428-72bc7980-a0a3-11eb-9164-817857d0dd99.png)
 
-Delete:
+
+**Delete:**
 
 ![image](https://user-images.githubusercontent.com/64043281/115184507-9aabdd00-a0a3-11eb-8913-6108a852c44e.png)
 
-Autocomplete:
+
+**Autocomplete:**
 
 ![image](https://user-images.githubusercontent.com/64043281/115184581-b6af7e80-a0a3-11eb-917d-667a7e969f76.png)
 
-Search:
+
+**Search:**
 
 ![image](https://user-images.githubusercontent.com/64043281/115184632-d8a90100-a0a3-11eb-9cbf-66a8ec224bf7.png)
 
-Display:
+
+**Display:**
 
 ![image](https://user-images.githubusercontent.com/64043281/115184954-83b9ba80-a0a4-11eb-9992-8c4a56e07e3c.png)
+
+## Citations:
+https://www.youtube.com/watch?v=zIjfhVPRZCg  (Did not use code, just used to gain general knowledge of what a trie is)
+https://www.youtube.com/watch?v=6PX6wqDQE20 (Again, did not use code, just used to gain general knowledge of what a trie is)
+https://realpython.com/python-requests/#the-get-request (Learned about the requests library)
+https://geekflare.com/python-hosting-platform/ (Learned about the **FREE** PythonAnywhere)
+https://www.youtube.com/watch?v=5jbdkOlf4cY&t=356s (Using Flask on PythonAnywhere)
